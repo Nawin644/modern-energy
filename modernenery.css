@@ -1,0 +1,147 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    height: 55px;
+    background-color: white;
+    
+}
+
+.btn1{
+    margin: 7px;
+    margin-left: 52px;
+    padding: 2px 13px;
+    background-color: #2727a9;
+    color: white;
+    font-weight: bold;
+}
+
+.topic1{
+    background-image: url(./images/page1img.jpg);
+    background-size: cover;
+    height: 500px;
+    width:100%;
+    position: relative;
+   
+}
+.topic1 h1{
+    position: absolute;
+    margin: 74px;
+    left: 0px;
+    font-size: 54px;
+    color: white;
+    font-weight: 800;
+}
+.topic1 p{
+    position: absolute;
+    margin: 150px;
+   
+    font-size: 14px;
+    color: ghostwhite;
+    font-weight: 800;
+    top: 18px;
+    line-height: 31px;
+}
+.topic2{
+    width: 100%;
+    height: 1590px;
+    background-color: whitesmoke;
+}
+.topic2 h2{
+    margin-left: 20px;
+    font-weight: 800;
+    color: mediumblue;
+}
+.topic2 ol li{
+    margin-left: 10px;
+    color: black;
+    font-weight: 700;
+    line-height: 26px;
+    display: inline;
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: cadetblue;
+}
+.foot{
+    height: 200px;
+    color: white;
+    width:100%;
+}
+.last{
+    margin: 50px;
+    color: white;
+}
+.support{
+    margin-top: 30px;
+    color: white;
+}
+.loginbtn{
+    color: white;
+    text-decoration: none;
+}
+.final{
+    margin-top: 30px;
+    color: white;
+}
+.social{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+}
+.medias{
+    display: flex;
+    justify-content: center;
+    width: 36%;
+    height: 40px;
+    margin-left: 389px;
+    
+}
+.btn{
+    border: 2px solid red;
+    border-radius: 15px;
+    margin: 2px;
+    background-color: yellow;
+}
+.solor{
+    width:100%;
+}
+.btn2{
+    text-decoration: none;
+    color: white;
+}
+.page2{
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+   
+}
+.solorenergy{
+    width: 100%;
+    height: 300px;
+    background-color: bisqu;
+}
+.wind{
+    width: 100%;
+    height: 300px;
+}
+.hydro{
+    width: 100%;
+    height: 300px;
+    background-color: dodgerblu;
+}
+.hydro1{
+    width: 100%;
+    
+}
+.logoe{
+    width: 22%;
+    margin-top: 31px;
+}
+.logoe1{
+    width: 5%;
+}
